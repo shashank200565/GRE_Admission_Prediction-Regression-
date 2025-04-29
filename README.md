@@ -43,11 +43,8 @@ Output Layer:
 Training Details
 
 -Loss Function: Mean Squared Error (MSE) – penalizes large prediction errors.
-
 -Optimizer: Adam (adaptive learning rate for efficient training).
-
 -Validation Split: 20% of data used for validation.
-
 -Early Stopping: Implemented to prevent overfitting.
 
 Performance & Evaluation
