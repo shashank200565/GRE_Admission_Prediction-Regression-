@@ -8,7 +8,7 @@ The model helps students:
 - Optimize their applications by understanding how different factors influence admission decisions.    
 
 Key Features & Data Attributes
-Input Features:
+Input Features:    
 
 1.)GRE Score (260–340)
 
