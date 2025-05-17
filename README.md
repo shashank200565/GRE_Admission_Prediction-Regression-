@@ -9,7 +9,7 @@ The model helps students:
 
 Key Features & Data Attributes
 Input Features:    
-
+    
 1.)GRE Score (260–340)
 
 2.)TOEFL Score (0–120)
